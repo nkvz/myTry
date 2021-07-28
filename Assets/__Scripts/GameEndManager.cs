@@ -8,6 +8,7 @@ public class GameEndManager : MonoBehaviour
     public bool redOPEN;
     public bool greenOPEN;
     public bool blueOPEN;
+    public int num;
     //public GameObject textWin;
 
     public VideoPlayer vplay;
